@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs involving array subscripting. The `bug.cob` file shows the incorrect usage that may lead to runtime errors, while `bugSolution.cob` provides the corrected version.
